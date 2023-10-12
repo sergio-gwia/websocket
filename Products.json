@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "title": "Moby Dick",
+    "description": "La historia del capitán Ahab en su obsesiva búsqueda de la gran ballena blanca, Moby Dick.",
+    "price": 19.99,
+    "thumbnail": "moby_dick.jpg",
+    "code": "MD001",
+    "stock": 30,
+    "category": "Aventura"
+  },
+  {
+    "id": 3,
+    "title": "Cien años de soledad",
+    "description": "La saga de la familia Buendía a lo largo de varias generaciones en el ficticio pueblo de Macondo.",
+    "price": 24.50,
+    "thumbnail": "cien_anos_soledad.jpg",
+    "code": "CS002",
+    "stock": 20,
+    "category": "Realismo mágico"
+  },
+  {
+    "id": 5,
+    "title": "1984",
+    "description": "En un mundo distópico, el gobierno totalitario de Oceanía controla cada aspecto de la vida de sus ciudadanos.",
+    "price": 14.99,
+    "thumbnail": "1984.jpg",
+    "code": "N1984",
+    "stock": 40,
+    "category": "Ciencia ficción"
+  },
+  {
+    "id": 7,
+    "title": "El principito",
+    "description": "La historia de un pequeño príncipe que viaja de planeta en planeta, encontrando personajes únicos y valiosas lecciones.",
+    "price": 10.75,
+    "thumbnail": "el_principito.jpg",
+    "code": "PP003",
+    "stock": 25,
+    "category": "Infantil"
+  },
+  {
+    "id": 9,
+    "title": "Orgullo y prejuicio",
+    "description": "La compleja relación entre Elizabeth Bennet y Mr. Darcy en la Inglaterra del siglo XIX.",
+    "price": 18.00,
+    "thumbnail": "orgullo_prejuicio.jpg",
+    "code": "OP004",
+    "stock": 35,
+    "category": "Romance"
+  },
+  {
+    "id": 11,
+    "title": "Don Quijote de la Mancha",
+    "description": "Las aventuras del caballero Don Quijote y su fiel escudero Sancho Panza en la España del siglo XVII.",
+    "price": 21.99,
+    "thumbnail": "don_quijote.jpg",
+    "code": "DQ005",
+    "stock": 50,
+    "category": "Clásico"
+  },
+  {
+    "id": 13,
+    "title": "Harry Potter y la piedra filosofal",
+    "description": "La historia de un niño huérfano que descubre que es un mago y asiste a la escuela de magia de Hogwarts.",
+    "price": 15.25,
+    "thumbnail": "hp_piedra_filosofal.jpg",
+    "code": "HP006",
+    "stock": 60,
+    "category": "Fantasía"
+  },
+  {
+    "id": 15,
+    "title": "Los juegos del hambre",
+    "description": "En un futuro distópico, Katniss Everdeen se convierte en tributo en un evento televisivo mortal.",
+    "price": 16.50,
+    "thumbnail": "juegos_hambre.jpg",
+    "code": "JH007",
+    "stock": 45,
+    "category": "Ciencia ficción"
+  },
+  {
+    "id": 17,
+    "title": "El alquimista",
+    "description": "La historia de Santiago, un joven pastor que emprende un viaje en busca de un tesoro.",
+    "price": 12.49,
+    "thumbnail": "el_alquimista.jpg",
+    "code": "EA008",
+    "stock": 30,
+    "category": "Aventura"
+  },
+  {
+    "id": 19,
+    "title": "El código Da Vinci",
+    "description": "Un profesor de simbología se embarca en la búsqueda de un secreto antiguo con la ayuda de una criptóloga y un experto en arte.",
+    "price": 20.50,
+    "thumbnail": "codigo_da_vinci.jpg",
+    "code": "CDV009",
+    "stock": 55,
+    "category": "Misterio"
+  },
+  {
+    "id": 21,
+    "title": "El nombre del viento",
+    "description": "La historia de Kvothe, un legendario músico y mago, narrada por él mismo.",
+    "price": 17.99,
+    "thumbnail": "nombre_del_viento.jpg",
+    "code": "NV010",
+    "stock": 35,
+    "category": "Fantasía"
+  },
+  {
+    "id": 23,
+    "title": "La ladrona de libros",
+    "description": "La historia de Liesel Meminger, una niña que roba libros para compartir con otros en la Alemania nazi.",
+    "price": 13.75,
+    "thumbnail": "ladrona_libros.jpg",
+    "code": "LL011",
+    "stock": 40,
+    "category": "Histórico"
+  },
+  {
+    "id": 25,
+    "title": "Rayuela",
+    "description": "La innovadora novela de Julio Cortázar que desafía las convenciones narrativas.",
+    "price": 11.99,
+    "thumbnail": "rayuela.jpg",
+    "code": "R012",
+    "stock": 20,
+    "category": "Ficción"
+  },
+  {
+    "id": 27,
+    "title": "El retrato de Dorian Gray",
+    "description": "La historia de un joven que vende su alma para mantener su juventud mientras su retrato envejece.",
+    "price": 9.50,
+    "thumbnail": "retrato_dorian_gray.jpg",
+    "code": "RDG013",
+    "stock": 50,
+    "category": "Clásico"
+  },
+  {
+    "id": 29,
+    "title": "El Señor de los Anillos: La Comunidad del Anillo",
+    "description": "La primera parte de la trilogía épica de J.R.R. Tolkien sobre la lucha por el Anillo Único.",
+    "price": 22.00,
+    "thumbnail": "senor_anillos_comunidad.jpg",
+    "code": "SAC014",
+    "stock": 30,
+    "category": "Fantasía"
+  }
+]
+
